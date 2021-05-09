@@ -1,0 +1,14 @@
+dl {
+    font-size: 22px;
+}
+dl dt {
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+dd {
+    display:list-item;
+    font-size: 22px;
+    margin-left: 90px;
+} 
+
